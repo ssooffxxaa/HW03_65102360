@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Sofia Panyaphon",
+      "email": "sofia1110430@gmail.com",
+      "password": "11012547",
+      "gender": "Female"
+    },
+    {
+      "id": null,
+      "fullname": "Sofia Panyaphon",
+      "email": "sofia1110430@gmail.com",
+      "password": "11012547",
+      "gender": "Female"
+    }
+  ]
+}
